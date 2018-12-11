@@ -1,0 +1,5 @@
+reducers 目录包含所有Redux的reducer
+actions 目录包含所有action构造函数
+components 目录包含所有的展示组件
+containers 目录包含所有的容器组件
+View 目录包含所有视图
